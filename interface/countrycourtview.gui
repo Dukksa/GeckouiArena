@@ -60,15 +60,6 @@ guiTypes = {
 		}
 		
 		
-		### ------- Ruler -------	
-		guiButtonType = {
-			name = gecko_court_recruitment
-			position = { x = 16 y = 71}
-			scripted = yes
-			Orientation = "UPPER_LEFT"
-			quadTextureSprite = "GFX_first_chairman_icon"
-			scale = 0.90
-		}
 		iconType =
 		{
 			name ="monarch_gender"
@@ -147,12 +138,7 @@ guiTypes = {
 			hint_tag = "hint_ruler"
 		}
 
-		guiButtonType = {
-			name = "improve_adm_button"
-			position = { x = 14 y = 146 }
-			quadTextureSprite = "GFX_icon_powers_administrative"
-			scripted = yes
-		}
+		
 		
 		instantTextBoxType = {
 			name = "monarch_dip_value"
@@ -175,12 +161,7 @@ guiTypes = {
 			hint_tag = "hint_ruler"
 		}
 
-		guiButtonType = {
-			name = "improve_dip_button"
-			position = { x= 64 y = 146 }
-			quadTextureSprite = "GFX_icon_powers_diplomatic"
-			scripted = yes
-		}
+		
 
 		instantTextBoxType = {
 			name = "monarch_mil_value"
@@ -203,12 +184,7 @@ guiTypes = {
 			hint_tag = "hint_ruler"
 		}
 
-		guiButtonType = {
-			name = "improve_mil_button"
-			position = { x= 114 y = 146 }
-			quadTextureSprite = "GFX_icon_powers_military"
-			scripted = yes
-		}
+		
 
 		listboxType = 
 		{

@@ -4,5 +4,5 @@ tags={
 	"Graphics"
 }
 replace_path="gfx/loadingscreens"
-name="GeckoV9 UI"
+name="GeckoV9 UI Arena"
 supported_version="v1.37.*"
